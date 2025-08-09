@@ -8,8 +8,8 @@ const filterBtn = document.getElementById('filter-btn');
 const resetBtn = document.getElementById('reset-btn');
 
 let students = [
-    { id: 1, name: 'NONG Socheatra', grade: 'E' },
-    { id: 2, name: 'PRUM SAKKADA', grade: 'B' }
+    { id: 1, name: 'Sreng Chipor', grade: 'A' },
+    { id: 2, name: 'Eung Lyzhia', grade: 'B' }
 ];
 
 function renderStudents(studentsToDisplay) {
